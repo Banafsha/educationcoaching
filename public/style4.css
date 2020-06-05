@@ -4,28 +4,25 @@
     font-family: sans-serif;
     }
     body{
-    background-image: url(images/contactn.jpg);
-    size: center;
-    opacity: 0.9;    
+    background-image: url(images/contact1.jpg);
+    size: initial;
+    opacity: 0.7;    
     }
     
     .my-nav{
-    background-color: darkseagreen;    
+    background-color: silver;    
     }
     
     
     
     .navbar{
     width: 100%;
-    font-weight: bold;
-    
     }
     
     
     .navbar-brand{
     padding-right: 55px;
     padding-left: 3px;
-    font-weight: bold;
     font-style: italic;
     }
     
@@ -40,7 +37,7 @@
     
     }
     .navbar li:hover{
-    background-color: blanchedalmond; 
+    background-color: #3f51b5; 
     position: relative;   
     }
     
@@ -51,12 +48,12 @@
     }
     .dropdown-menu{
     margin-top: 10px !important;
-    background-color: darkseagreen !important;
+    background-color: whitesmoke !important;
       
     }
     .dropdown-menu a:hover{
-    background-color: blanchedalmond !important;
-    border-radius: 15px;
+    background-color: #3f51b5 !important;
+    border-radius: 10px;
         
     }
     
@@ -67,12 +64,12 @@
     
 
     .center4{
-    border: 7px solid  green;
+    border: 7px solid #3f51b5;
     margin-top: 70px;
     margin-bottom: 70px;    
     margin-right: 65px;
     margin-left: 65px;
-    color: green;
+    color: #3f51b5;
     text-align: center;
    border-radius: 7px;
     max-width: 100%;
@@ -81,7 +78,7 @@
 
     .list-group{
      text-align: justify;
-     color: green;
+     color: #3f51b5;
     }
      .list-group-item{
      opacity: 0.8;
@@ -91,10 +88,10 @@
     padding: 8px;
     }
     .fom{
-     border: 3px solid lawngreen;
+     border: 3px solid blue;
      margin-top: 10px;
-     margin-left: 70px; 
-     margin-right: 70px;
+     margin-left: 65px; 
+     margin-right: 65px;
      margin-bottom: 65px;
      padding-left: 10px; 
     }
@@ -107,18 +104,19 @@
     
    .last{
     text-align: center;
-    color: teal;   
-   }
+    color: blue;   
+    font-weight: bold; 
+  }
    .button2{
     width: 100px;
-    border: 2px solid green;
+    border: 2px solid #3f51b5;
     margin-left: 50px;
     margin-bottom: 10px;   
    }
 
    .footer-bottom{
     text-align: center;
-    background-color: darkcyan;
+    background-color:  #3f51b5;
     display: flex;  
     justify-content: space-around;
      

@@ -3,19 +3,14 @@ margin: 0;
 padding: 0;
 font-family: sans-serif;
 }
-body{
-background-color: rgb(238, 212, 181) !important;    
-}
 
 .my-nav{
-background-color: darkseagreen;    
+background-color: silver;    
 }
-
-
 
 .navbar{
 width: 100%;
-font-weight: bold;
+
 
 }
 
@@ -23,7 +18,6 @@ font-weight: bold;
 .navbar-brand{
 padding-right: 55px;
 padding-left: 3px;
-font-weight: bold;
 font-style: italic;
 
 }
@@ -39,7 +33,7 @@ margin-left: 10px;
 
 }
 .navbar li:hover{
-background-color: blanchedalmond; 
+background-color:#3f51b5;; 
 position: relative;   
 }
 
@@ -50,12 +44,12 @@ border-radius: 18px;
 }
 .dropdown-menu{
 margin-top: 10px !important;
-background-color: darkseagreen !important;
+background-color: whitesmoke !important;
   
 }
 .dropdown-menu a:hover{
-background-color: blanchedalmond !important;
-border-radius: 15px;
+background-color:  #3f51b5; !important;
+border-radius: 10px;
     
 }
 
@@ -79,27 +73,24 @@ padding-left: 20px;
     }
         
     .sub{
-    border: 1px solid darkmagenta;
-    border-radius: 23px;
+    border: 1px solid;
+    border-radius: 15px;
     align-items: center;
     justify-content: center;
     margin: 70px;
-    background-color: paleturquoise;  
     padding-left: 1px;
   }
 
     h3{
     text-align: center;
-    color: darkmagenta;
     text-shadow:3px 3px 3px darkturquoise;
-    font-family: cursive;
-    background-color: oldlace;
-    border-radius: 30px;
+    background-color: silver;
+    border-radius: 10px;
    
   }
     .sub:hover{
       color: blue;
-      text-shadow: 4px 4px 4px palevioletred;   
+      text-shadow: 4px 4px 4px lightgrey;   
     }
     
     
@@ -142,7 +133,7 @@ padding-left: 20px;
   }
   .footer-bottom{
   text-align: center;
-  background-color: darkcyan;
+  background-color: #3f51b5;;
   display: flex;  
   justify-content: space-around;
    

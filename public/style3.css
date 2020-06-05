@@ -9,14 +9,13 @@
     }
     
     .my-nav{
-    background-color: darkseagreen;    
+    background-color: silver;    
     }
     
     
     
     .navbar{
     width: 100%;
-    font-weight: bold;
     
     }
     
@@ -24,7 +23,6 @@
     .navbar-brand{
     padding-right: 55px;
     padding-left: 3px;
-    font-weight: bold;
     font-style: italic;
     
     }
@@ -40,7 +38,7 @@
     
     }
     .navbar li:hover{
-    background-color: blanchedalmond; 
+    background-color: #3f51b5;; 
     position: relative;   
     }
     
@@ -51,12 +49,12 @@
     }
     .dropdown-menu{
     margin-top: 10px !important;
-    background-color: darkseagreen !important;
+    background-color: whitesmoke !important;
       
     }
     .dropdown-menu a:hover{
-    background-color: blanchedalmond !important;
-    border-radius: 15px;
+    background-color: #3f51b5 !important;
+    border-radius: 10px;
         
     }
     
@@ -92,7 +90,7 @@
 
 .footer-bottom{
   text-align: center;
-  background-color: darkcyan;
+  background-color:  #3f51b5;
   display: flex;  
   justify-content: space-around;
    

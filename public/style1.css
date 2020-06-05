@@ -3,19 +3,16 @@
     padding: 0px;
     font-family: sans-serif;
     }
-    body{
-    background-color: bisque !important;    
-    }
+   
     
     .my-nav{
-    background-color: darkseagreen;    
+    background-color: silver;    
     }
     
     
     
     .navbar{
     width: 100%;
-    font-weight: bold;
     
     }
     
@@ -23,7 +20,6 @@
     .navbar-brand{
     padding-right: 55px;
     padding-left: 3px;
-    font-weight: bold;
     font-style: italic;
     
     }
@@ -39,7 +35,7 @@
     
     }
     .navbar li:hover{
-    background-color: bisque; 
+    background-color:  #3f51b5; 
     position: relative;   
     }
     
@@ -50,12 +46,12 @@
     }
     .dropdown-menu{
     margin-top: 10px !important;
-    background-color: darkseagreen !important;
+    background-color: whitesmoke !important;
       
     }
     .dropdown-menu a:hover{
-    background-color: blanchedalmond !important;
-    border-radius: 15px;
+    background-color: #3f51b5 !important;
+    border-radius: 10px;
         
     }
     
@@ -77,14 +73,14 @@ text-shadow: 4px 4px 4px olivedrab;
 
 
 .row{
-background-color: palegoldenrod;
+background-color: #3f51b5;
 margin: 50px 0; 
 display: table;
 border: 0.5px solid goldenrod;
 content: "";
 clear: both;
 border-radius: 7px;
-box-shadow: 4px 5px 5px goldenrod;
+box-shadow: 4px 5px 5px gray;
 }
 
 .column-66{
@@ -95,7 +91,7 @@ padding: 50px;
 
 .column-66 h2{
 font-weight: bold;
-color: midnightblue;
+color: white;
 text-shadow: 3px 3px 4px cornflowerblue;   
 }
 
@@ -144,7 +140,7 @@ height: 50px;
 
 .footer-bottom{
     text-align: center;
-    background-color: darkcyan;
+    background-color:  #3f51b5;
     display: flex;  
     justify-content: space-around;
      
